@@ -7,35 +7,35 @@ This project is designed to resemble a real-world shopping application with a pr
  Features:
  
 ->User Module:
-User Registration & Login
-Category-based product browsing
-Search products
-Add to cart (with quantity selector)
-View cart with auto-calculation
-Discount & tax calculation
-Receipt generation (TXT file)
-Payment module
-User logout
+User Registration & Login,
+Category-based product browsing,
+Search products,
+Add to cart (with quantity selector),
+View cart with auto-calculation,
+Discount & tax calculation,
+Receipt generation (TXT file),
+Payment module,
+User logout.
 
 ->Admin Module
-Login as Admin
-Add / Update / Delete Users
-Add / Update / Delete Products
-Manage stock & categories
-View product & user tables
+Login as Admin,
+Add / Update / Delete Users,
+Add / Update / Delete Products,
+Manage stock & categories,
+View product & user tables.
 
 ->Other Features
-Beautiful Tkinter UI
-Image-based backgrounds
-Secure password hashing (bcrypt)
-MySQL Database integration
-Auto-calculated tax & discounts
+Beautiful Tkinter UI,
+Image-based backgrounds,
+Secure password hashing (bcrypt),
+MySQL Database integration,
+Auto-calculated tax & discounts.
 
 
 Tech Stack:
-Component->Technology
-Frontend->Python Tkinter
-Backend->Python
-Database->MySQL (XAMPP / Server)
-Libraries->bcrypt, pymysql, mysql-connector, ttk, PIL
+Component->Technology,
+Frontend->Python Tkinter,
+Backend->Python,
+Database->MySQL (XAMPP / Server),
+Libraries->bcrypt, pymysql, mysql-connector, ttk, PIL.
 
